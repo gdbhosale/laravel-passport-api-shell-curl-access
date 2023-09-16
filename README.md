@@ -1,5 +1,7 @@
 # Access Laravel Passport API from Shell Script using CURL and JQ
 
+Refer detailed article on https://dwij.net/how-to-access-laravel-passport-api-from-shell-script-using-curl-and-jq/
+
 Laravel Project Setup:
 
 ```
