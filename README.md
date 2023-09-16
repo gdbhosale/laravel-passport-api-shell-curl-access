@@ -89,3 +89,7 @@ Route::middleware('auth:api')->get('/user', function (Request $request) {
     return $request->user();
 });
 ```
+
+Check `login_script.sh` file for complete script.
+
+Refer detailed article for shell scripting on https://dwij.net/how-to-access-laravel-passport-api-from-shell-script-using-curl-and-jq/.
